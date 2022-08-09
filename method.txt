@@ -1,0 +1,3 @@
+# weather-fetching-sample
+
+initialise an npm package by typing (npm init) in the same folder where you clone the repository
